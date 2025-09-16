@@ -33,4 +33,4 @@ Unlike traditional stroke detection approaches that rely on **CT/MRI scans** or 
 - Successfully tested on an **external dataset**.   
 
 ## 🧑‍💻 Author
-**CodeShockAI** – Biotech graduate exploring AI/ML in healthcare for novel diagnostic solutions.  
+**CodeShock123** – Biotech graduate exploring AI/ML in healthcare for novel diagnostic solutions.  
