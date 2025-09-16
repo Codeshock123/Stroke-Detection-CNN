@@ -25,8 +25,12 @@ Unlike traditional stroke detection approaches that rely on **CT/MRI scans** or 
 4. View predictions and performance results.  
 
 ## 📊 Results
-- CNN model trained on facial images achieved **96.64% accuracy** on the training dataset.  
-- Successfully tested on an **external dataset**, showing good generalization and robustness.  
+- CNN model trained on facial images achieved the following on the training dataset.
+    - Accuracy: 95.58%
+    - Precision: 89.69%
+    - Recall (Sensitivity): 99.01%
+    - F1-score: 94.12%  
+- Successfully tested on an **external dataset**.   
 
 ## 🧑‍💻 Author
 **CodeShockAI** – Biotech graduate exploring AI/ML in healthcare for novel diagnostic solutions.  
